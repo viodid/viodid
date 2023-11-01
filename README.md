@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @viodid
 - 👀 I’m interested in backend, DevOps, SysAdmin and embedded systems.
-- 🌱 I’m currently learning DevOps.
 - 📫 How to reach me: 
 -   www.linkedin.com/in/davidyunta
 -   david.zwsse@simplelogin.co
